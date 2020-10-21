@@ -1,6 +1,6 @@
 # course-springboot-2-java-11
-Project to practice springboot / JPA Hibernate
-taught by: Nelio Alves
+Project to practice springboot / JPA Hibernate  
+taught by: Nelio Alves  
 Course: https://www.udemy.com/course/java-curso-completo/
 
 ## Technologies
@@ -11,7 +11,8 @@ Course: https://www.udemy.com/course/java-curso-completo/
 
 
 ## Resources
-Heroku: https://learning-java-spring-bt.herokuapp.com/
+Heroku: https://learning-java-spring-bt.herokuapp.com/  
+  
 * GET /users 
 * GET /users/id
 * POST /users
